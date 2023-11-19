@@ -15,7 +15,7 @@
   
 ![](https://raw.githubusercontent.com/IndusAryan/mystats/master/generated/languages.svg#gh-light-mode-only)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=IndusAryan&theme=dracula&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=IndusAryan&theme=radical)](https://git.io/streak-stats)
 
 <h1 align="center">Languages i use:</h1>
 

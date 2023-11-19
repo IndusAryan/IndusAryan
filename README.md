@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/IndusAryan/IndusAryan/main/ezgif-3-7b1677f4c9.gif" alt="MasterHead" width="1050" height="4">
+<img src="[https://raw.githubusercontent.com/IndusAryan/IndusAryan/main/ezgif-3-7b1677f4c9.gif](https://github.com/IndusAryan/IndusAryan/blob/main/ezgif-3-7b1677f4c9.gif)" alt="MasterHead" width="1050" height="4">
 
 <h1 align="center">Namaste 👋, I'm IndusAryan</h1>
 

@@ -19,14 +19,14 @@ Hi, I'm EG from Bharat,  A Software Engineer especially active in **Android Deve
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,html,css,javascript,react,java&perline=3&theme=light" />
+    <img src="https://skillicons.dev/icons?i=kotlin,javascript,html,css,react&perline=&theme=light" />
   </a>
 </p>
 
 <h1 align="center">Tools i work with:</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,cloudflare,vercel,heroku,netlify,gradle,wordpress,tailwind&theme=light&perline=3" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,cloudflare,vercel,heroku,netlify,gradle,wordpress,tailwind&theme=light&perline=3" />
   </a>
 </p>
   
@@ -39,14 +39,16 @@ Hi, I'm EG from Bharat,  A Software Engineer especially active in **Android Deve
 
 <p align ="left">My Stats :  </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IndusAryan)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ![](https://raw.githubusercontent.com/IndusAryan/mystats/master/generated/languages.svg#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IndusAryan)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IndusAryan&theme=radical)](https://git.io/streak-stats)
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IndusAryan)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" alt="MasterHead" width="1050" height="4">
 

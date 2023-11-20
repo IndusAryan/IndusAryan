@@ -42,7 +42,7 @@ Hi, I'm EG from Bharat,  A Software Engineer especially active in **Android Deve
 
 
 ![](https://raw.githubusercontent.com/IndusAryan/mystats/master/generated/languages.svg#gh-light-mode-only)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IndusAryan)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IndusAryan&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IndusAryan&theme=radical)](https://git.io/streak-stats)

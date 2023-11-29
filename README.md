@@ -1,4 +1,5 @@
 
+
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=125&animation=fadeIn&section=header&text=&fontSize=10"> </p>
 
  <h3 align="center">Total Profile Visits</h3>
@@ -9,12 +10,12 @@
  
 <h1 align="center">Namaste🙏, I'm IndusAryan</h1>
 
+
 Hi, I'm EG from Bharat,  A Software Engineer especially active in **Android Development** through **Kotlin** and **XML** and a **web developer  with React , JavaScript, HTML & CSS** skills. I love Open Source and love to contribute to such projects. I always try to learn new technologies and stacks, and always open to new opportunities and challenges. 
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" alt="MasterHead" width="1050" height="4">
 
 <p align="center"></p>
-
 <h1 align="center">Languages i use:</h1>
 
 <p align="center">
@@ -37,19 +38,13 @@ Hi, I'm EG from Bharat,  A Software Engineer especially active in **Android Deve
   </a>
 </p>
 
-<p align ="left">My Stats :  </p>
+<h1 align="left">My Stats ✨  </h1>
 
-
-
-![](https://raw.githubusercontent.com/IndusAryan/mystats/master/generated/languages.svg#gh-light-mode-only)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IndusAryan&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IndusAryan&theme=radical)](https://git.io/streak-stats)
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IndusAryan)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  <a href="https://github.com/IndusAryan"><img alt="Aryan's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=IndusAryan&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=10" /></a>
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" alt="MasterHead" width="1050" height="4">
-
-

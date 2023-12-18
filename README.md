@@ -15,33 +15,40 @@ Hi, I'm EG from Bharat,  A Software Engineer especially active in **Android Deve
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" alt="MasterHead" width="1050" height="4">
 
+
 <p align="center"></p>
-<h1 align="center">Languages i use:</h1>
+<h1 align="center">Languages :</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,javascript,html,css,react&perline=&theme=light" />
+    <img src="https://skillicons.dev/icons?i=kotlin,javascript,dart,html,css,md&perline=&theme=light" />
   </a>
 </p>
 
-<h1 align="center">Tools i work with:</h1>
+<h1 align="center">Development Tools : </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,cloudflare,vercel,heroku,netlify,gradle,wordpress,tailwind&theme=light&perline=3" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,gradle,bootstrap,vscode,cloudflare,vercel,heroku,netlify,stackoverflow&theme=light&perline=3" />
   </a>
 </p>
   
- <h1 align="center">Version Control & Automation:</h1>
+ <h1 align="center">Version Control Systems & Automation :</h1>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,powershell&theme=light" />
   </a>
 </p>
+ 
+  <p align="start"> Currently learning : ) </p>
+  
+   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+   <img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white">
 
 <h1 align="left">My Stats ✨  </h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IndusAryan&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/IndusAryan"><img alt="IndusAryan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=IndusAryan&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IndusAryan&theme=radical)](https://git.io/streak-stats)
   

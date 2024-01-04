@@ -13,22 +13,20 @@
 
 Hi, I'm EG from Bharat,  A Software Engineer especially active in **Android Development** through **Kotlin** and **XML** and a **web developer  with React , JavaScript, HTML & CSS** skills. I love Open Source and love to contribute to such projects. I always try to learn new technologies and stacks, and always open to new opportunities and challenges. 
 
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" alt="MasterHead" width="1050" height="4">
-
 
 <p align="center"></p>
 <h1 align="center">Languages :</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,javascript,dart,html,css,md&perline=&theme=light" />
+    <img src="https://skillicons.dev/icons?i=kotlin,javascript,react,dart,tailwind,bootstrap,html,css,md&perline=&theme=light" />
   </a>
 </p>
 
 <h1 align="center">Development Tools : </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,gradle,bootstrap,vscode,cloudflare,vercel,heroku,netlify,stackoverflow&theme=light&perline=3" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,gradle,vite,vscode,cloudflare,vercel,heroku,netlify,stackoverflow&theme=light&perline=3" />
   </a>
 </p>
   
@@ -54,4 +52,3 @@ Hi, I'm EG from Bharat,  A Software Engineer especially active in **Android Deve
   
   <a href="https://github.com/IndusAryan"><img alt="Aryan's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=IndusAryan&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=10" /></a>
 
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" alt="MasterHead" width="1050" height="4">

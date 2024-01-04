@@ -7,9 +7,10 @@
 	<img src="https://count.getloli.com/get/@IndusAryan?theme=moebooru"> <br/>
 <p align="center">
 </p>
- 
+
 <h1 align="center">Namaste🙏, I'm IndusAryan</h1>
 
+ <img src="https://raw.githubusercontent.com/IndusAryan/IndusAryan/main/line3.gif" alt="MasterHead" width="1050" height="4" />
 
 Hi, I'm EG from Bharat,  A Software Engineer especially active in **Android Development** through **Kotlin** and **XML** and a **web developer  with React , JavaScript, HTML & CSS** skills. I love Open Source and love to contribute to such projects. I always try to learn new technologies and stacks, and always open to new opportunities and challenges. 
 
@@ -52,3 +53,4 @@ Hi, I'm EG from Bharat,  A Software Engineer especially active in **Android Deve
   
   <a href="https://github.com/IndusAryan"><img alt="Aryan's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=IndusAryan&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=10" /></a>
 
+ <img src="https://raw.githubusercontent.com/IndusAryan/IndusAryan/main/line3.gif" alt="MasterHead" width="1050" height="4" />

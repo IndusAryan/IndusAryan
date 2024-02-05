@@ -8,11 +8,11 @@
 <p align="center">
 </p>
 
-<h1 align="center">Namaste🙏, I'm IndusAryan</h1>
+<h1 align="center">Namaste🙏</h1>
 
  <img src="https://raw.githubusercontent.com/IndusAryan/IndusAryan/main/line3.gif" alt="MasterHead" width="1050" height="4" />
 
-Hi, I'm EG from Bharat,  A Software Engineer especially active in **Android Development** through **Kotlin** and **XML** and a **web developer  with React , JavaScript, HTML & CSS** skills. I love Open Source and love to contribute to such projects. I always try to learn new technologies and stacks, and always open to new opportunities and challenges. 
+Hi, I'm IndusAryan , A Native **Android** and **Web developer** proficient in **Kotlin** & **JavaScript**. As a WebDev, currently i am using ReactJS and Tailwind. I love Open Source and love to contribute to such projects and always open to new opportunities and challenges. 
 
 
 <p align="center"></p>

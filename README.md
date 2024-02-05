@@ -16,7 +16,7 @@ Hi, I'm IndusAryan , A Native **Android** and **Web developer** proficient in **
 
 
 <p align="center"></p>
-<h1 align="center">Languages :</h1>
+<h1 align="center">Skills :</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">

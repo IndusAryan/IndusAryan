@@ -12,8 +12,7 @@
 
  <img src="https://raw.githubusercontent.com/IndusAryan/IndusAryan/main/line3.gif" alt="MasterHead" width="1050" height="4" />
 
-Hi, I'm IndusAryan , A Native **Android** and **Web developer** proficient in **Kotlin** & **JavaScript**. As a WebDev, currently i am using ReactJS and Tailwind. I love Open Source and love to contribute to such projects and always open to new opportunities and challenges. 
-
+Hi, I'm IndusAryan , A Native **Android** and **Web developer** proficient in **Kotlin** & **JavaScript**.
 
 <p align="center"></p>
 <h1 align="center">Skills :</h1>
@@ -38,11 +37,6 @@ Hi, I'm IndusAryan , A Native **Android** and **Web developer** proficient in **
   </a>
 </p>
  
-  <p align="start"> Currently learning : ) </p>
-  
-   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-   <img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white">
-
 <h1 align="left">My Stats ✨  </h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IndusAryan&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)

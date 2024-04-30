@@ -1,5 +1,3 @@
-
-
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=125&animation=fadeIn&section=header&text=&fontSize=10"> </p>
 
  <h3 align="center">Total Profile Visits</h3>
@@ -8,11 +6,9 @@
 <p align="center">
 </p>
 
-<h1 align="center">Namaste🙏</h1>
+<h1 align="center">🔱 🙏 🚩</h1>
 
  <img src="https://raw.githubusercontent.com/IndusAryan/IndusAryan/main/line3.gif" alt="MasterHead" width="1050" height="4" />
-
-Hi, I'm IndusAryan , A Native **Android** and **Web developer** proficient in **Kotlin** & **JavaScript**.
 
 <p align="center"></p>
 <h1 align="center">Skills :</h1>
